@@ -1,4 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fsoftware-engineering-banner-and-icons-vector-id636526232&f=1&nofb=1&ipt=82ec441b67efeeb436077118732eb34aaecab7b6c68c80bc2a55eed0aa5a297f&ipo=images)]
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.istockphoto.com%2Fvectors%2Fsoftware-engineering-banner-and-icons-vector-id636526232&f=1&nofb=1&ipt=82ec441b67efeeb436077118732eb34aaecab7b6c68c80bc2a55eed0aa5a297f&ipo=images)
 <h1 align="center">Hi 👋, my name is Melissa Dewi Resky</h1>
 <h3 align="center">A passionate full stack developer and software engineer</h3>
 <img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1857592%2Fscreenshots%2F3848396%2Fcharacter-typing.gif&f=1&nofb=1&ipt=1048b5bfe52ad94015c6362bea5ce81e8fb91b91926ad8dea90e388be5079288&ipo=images">

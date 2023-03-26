@@ -5,11 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melissarsy&label=Profile%20views&color=0e75b6&style=flat" alt="melissarsy" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- Personal Website Portofolio: https://melissa-web-porto.web.app/
+
+- 🌱 I’m currently learning **Typescript, Java**
 
 - 💬 Ask me about **NodeJs, Vue, React, React Native, express etc**
 
 - 📫 How to reach me **melissamey2712@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
